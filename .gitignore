@@ -1,0 +1,17 @@
+_site
+*.code-workspace
+reports
+.sass-cache
+local
+
+.jekyll-cache
+site-builder/docs
+.python-version
+site-builder/notes
+node_modules
+docs-dev/notes
+
+proto.*
+*.log
+.dendron.port
+.dendron.ws
