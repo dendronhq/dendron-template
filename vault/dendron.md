@@ -2,11 +2,12 @@
 id: e86ac3ab-dbe1-47a1-bcd7-9df0d0490b40
 title: Quickstart
 desc: ''
-updated: 1595170096361
+updated: 1605266942543
 created: 1595170096361
 stub: false
 nav_order: 1
 ---
+
 # QuickStart
 
 This guide will help get you started with Dendron. 
@@ -23,24 +24,24 @@ This section covers the basics of Dendron. Get started on the right foot and sta
 - [ ] Go through Dendron's basic [[concepts |dendron.concepts]]
 - [ ] Do your first [[lookup |dendron.topic.lookup]] - a better way to find your notes
 - [ ] Learn about [[schemas |dendron.topic.schema]] - a flexible type system for all your notes
-- [ ] Use a [[snippet | dendron.topic.snippets]]
+- [ ] Use a [[snippet |dendron.topic.snippets]]
 - [ ] Insert an [[image |dendron.topic.images]]
 - [ ] Create some [[links |dendron.topic.links]]
 - [ ] Explore additional features from [[Dendron's bundled extensions |dendron.topic.extensions]]
-- [ ] [[Publish | dendron.topic.publishing]] your vault 
+- [ ] [[Publish |dendron.topic.publishing]] your vault 
 - [ ] Join us on [discord](https://discord.com/invite/6j85zNX) and discuss all things knowledge management with your fellow trail blazers.
 
 ## The Woods 🌲
 
 This section covers advanced functionality in Dendron. Become a seasoned backpacker by mastering these trails.
 
-- [ ] Check out our [[case studies | dendron.case-studies]]
-- [ ] Read our [[FAQ | dendron.faq]]
+- [ ] Check out our [[case studies |dendron.case-studies]]
+- [ ] Read our [[FAQ |dendron.faq]]
 - [ ] Explore the [[graph view |dendron.topic.graph-view]]
 - [ ] Execute custom [[Dendron commands |dendron.topic.commands]]
 - [ ] Understand [[frontmatter |dendron.topic.frontmatter]]
 - [ ] Adopt a [[pod |dendron.topic.pod]]
-- [ ] Create a [[special note | dendron.topic.special-notes]]
+- [ ] Create a [[special note |dendron.topic.special-notes]]
 
 ## The Wilderness ⛰️
 
